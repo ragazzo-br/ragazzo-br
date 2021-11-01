@@ -1,4 +1,4 @@
-## Faço filantropia, traduções inglês/português, Yoga, investimentos em Criptomoedas, ações, Desenvolvimento web 
+## Faço filantropia, traduções inglês/português, Yoga, investimentos em Criptomoedas, ações, Full Stack Development
 ## I do philanthropy, portuguese/english translations, Yoga, investments in Cryptocurrencies, stocks, Full Stack development
 
 - 🌱 Atualmente estou me desenvolvendo em programação e investimentos 🤣
