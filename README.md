@@ -1,9 +1,5 @@
-### Olá pessoal aqui é o Fernando [Melhoria Financeira][website] 👋
-### Hello there, here is Fernando [Melhoria Financeira][website] 👋
-
-
 ## Faço filantropia, traduções inglês/português, Yoga, investimentos em Criptomoedas, ações, Desenvolvimento web 
-## I do philanthropy, portuguese/english translations, Yoga, investments in Cryptocurrencies, stocks, Web development
+## I do philanthropy, portuguese/english translations, Yoga, investments in Cryptocurrencies, stocks, Full Stack development
 
 - 🌱 Atualmente estou me desenvolvendo em programação e investimentos 🤣
 - 🌱 I’m currently learning programming and investments 🤣
