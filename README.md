@@ -1,12 +1,50 @@
-## Faço filantropia, traduções inglês/português, Yoga, investimentos em Criptomoedas, ações, Full Stack Development
-## I do philanthropy, portuguese/english translations, Yoga, investments in Cryptocurrencies, stocks, Full Stack development
+- # Welcome to My GitHub Profile! 🚀
 
-- 🌱 Atualmente estou me desenvolvendo em programação e investimentos 🤣
-- 🌱 I’m currently learning programming and investments 🤣
-- 👯 Estou procurando colaborar com o mercado de aplicações descentralizadas no Brasil, com software e traduções - blockchain
-- 👯 I'm looking to collaborate with the decentralized applications market in Brazil, with softwares and translations- blockchain
-- ⚡ Fato divertido:t: adoro correr em média 20km por semana
-- ⚡ Fun fact: I love to run 20 km per week
+## About Me  
+I'm a **Full Stack Developer** and **Blockchain Engineer**, specializing in **Web3**, **Solidity**, and **decentralized applications**. With extensive experience in software development, smart contracts, and crypto technologies, I focus on building scalable, secure, and innovative blockchain solutions.  
+
+## 🔥 What I Do  
+- **Full Stack Development** (JavaScript, Node.js, TypeScript, Python)  
+- **Blockchain & Web3** (Solidity, Smart Contracts, DeFi, dApps)  
+- **Decentralized Finance (DeFi) & Tokenization**  
+- **Smart Contract Auditing & Security**  
+
+## 🌱 Currently Exploring  
+- Advanced **DeFi strategies** and **MEV optimization**  
+- Smart contract automation and **Layer 2 scaling solutions**  
+- Integration of AI with blockchain technology  
+
+## 🤝 Open to Collaborations  
+I'm looking to collaborate with **Web3 projects, blockchain startups, and developers** aiming to build innovative decentralized applications.  
+
+## ⚡ Fun Fact  
+I practice intermittent fasting for **24 hours a day**, which helped me lose **22 pounds (10 kg)** when I started! It has given me new focus, energy, and stamina—something that might seem counterintuitive. 🚀
+
+
+
+## 📲 Connect with Me  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+
+<br>
+
+## 🛠️ Languages and Tools  
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea633b5c2310fde413759/topics/solidity/solidity.png" />
+<img align="left" alt="Ethereum" width="26px" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea633b5c2310fde413759/topics/ethereum/ethereum.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br><br>
+
+[instagram]: https://www.instagram.com/fernand0.pinheiro/
+
+
 
 ### Conecte-se comigo:
 ### Connect with me:
@@ -34,10 +72,6 @@
 
 
 
-
-
-[website]: https://melhoriafinanceira.com.br
 [instagram]: https://www.instagram.com/fernand0.pinheiro/
-[linkedin]: https://www.linkedin.com/in/fernando-pinheiro-52253627/
-[facebook]: https://www.facebook.com/melhoriafinanceira/
+
 
