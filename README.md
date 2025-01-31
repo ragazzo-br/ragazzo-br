@@ -21,6 +21,6 @@ I'm looking to collaborate with **Web3 projects, blockchain startups, and develo
 I practice intermittent fasting for **24 hours a day**, which helped me lose **22 pounds (10 kg)** when I started! It has given me new focus, energy, and stamina—something that might seem counterintuitive. 🚀
 
 ## 📲 Connect with Me  
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+cidadecancaodigital@gmail.com 
 
 
